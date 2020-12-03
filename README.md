@@ -1,2 +1,0 @@
-# portfolio
-Github Pages Portfolio
